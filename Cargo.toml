@@ -2,5 +2,6 @@
 resolver = "2"
 
 members = ["day-*"]
+default-members = ["day-*"]
 
 [workspace.dependencies]
